@@ -1,6 +1,5 @@
 "use client";
 
-import { useSearchParams } from '@node_modules/next/navigation';
 import React, { useEffect, useState } from 'react'
 import PromptCard from './PromptCard';
 

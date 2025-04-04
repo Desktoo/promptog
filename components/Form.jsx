@@ -1,6 +1,6 @@
 "use client";
 
-import Link from "@node_modules/next/link"
+import Link from "../node_modules/next/link"
 
 const Form = ({type, post, setPost, submitting, handleSubmit}) => {
   return (

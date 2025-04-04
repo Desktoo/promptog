@@ -1,6 +1,6 @@
 "use client";
 
-import Feed from "@components/Feed"
+import Feed from "../components/Feed"
 
 
 const Home = () => {
